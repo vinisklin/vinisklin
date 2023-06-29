@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius_Klingenfus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-klngenfus/)](https://www.linkedin.com/in/vinicius-klngenfus/) 
 [![Gmail Badge](https://img.shields.io/badge/-vinisklin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:vinisklin@gmail.com)
 
-<br>
 
 <!-- Hi there, I'm **Vinicius Klingenfus**, a **Frontend Developer** 🚀 from Curitiba, Brazil. -->
 
